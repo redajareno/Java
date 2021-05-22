@@ -5,7 +5,7 @@ Uploaded are school based projects made in Java.
 These projects are focused on Data Structures & Algorithms.
 
 Chapter 18 - Recursions
-Chapter 19 - Generics
+\nChapter 19 - Generics
 Chapter 20 - Lists, Stacks, Queues, Priority Queues
 Chapter 21 - Sets & Maps
 Chapter 22 - Developing Efficient Algorithms
